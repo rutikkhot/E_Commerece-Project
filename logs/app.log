@@ -18,3 +18,53 @@
 2025-09-30 23:47:41 [main] INFO  com.utilities.MyListerner - Test cases Execution is started= Check
 2025-09-30 23:47:43 [main] INFO  com.utilities.MyListerner - Test cases is pass= Check
 2025-09-30 23:47:48 [main] INFO  com.utilities.MyListerner - Test suite execution is completed
+2025-10-01 00:56:35 [main] INFO  com.utilities.MyListerner - test suite execution started
+2025-10-01 00:56:35 [main] INFO  com.utilities.MyListerner - Test cases Execution is started= Check
+2025-10-01 00:56:38 [main] INFO  com.utilities.MyListerner - Test cases is pass= Check
+2025-10-01 00:56:38 [main] INFO  com.utilities.MyListerner - Test suite execution is completed
+2025-10-01 00:57:21 [main] INFO  com.utilities.MyListerner - test suite execution started
+2025-10-01 00:57:21 [main] INFO  com.utilities.MyListerner - Test cases Execution is started= Check
+2025-10-01 00:57:23 [main] INFO  com.utilities.MyListerner - Test cases is pass= Check
+2025-10-01 00:57:23 [main] INFO  com.utilities.MyListerner - Test suite execution is completed
+2025-10-01 01:15:24 [main] INFO  com.utilities.MyListerner - test suite execution started
+2025-10-01 01:15:24 [main] INFO  com.utilities.MyListerner - Test cases Execution is started= Check
+2025-10-01 01:15:26 [main] INFO  com.utilities.MyListerner - Test cases is pass= Check
+2025-10-01 01:15:26 [main] INFO  com.utilities.MyListerner - Test cases Execution is started= checkSearchProduct
+2025-10-01 01:15:26 [main] INFO  com.utilities.MyListerner - Test cases is skipped= checkSearchProduct
+2025-10-01 01:15:26 [main] INFO  com.utilities.MyListerner - Test suite execution is completed
+2025-10-01 01:18:10 [main] INFO  com.utilities.MyListerner - test suite execution started
+2025-10-01 01:18:10 [main] INFO  com.utilities.MyListerner - Test cases Execution is started= Check
+2025-10-01 01:18:12 [main] INFO  com.utilities.MyListerner - Test cases is pass= Check
+2025-10-01 01:18:12 [main] INFO  com.utilities.MyListerner - Test cases Execution is started= checkSearchProduct
+2025-10-01 01:18:12 [main] INFO  com.utilities.MyListerner - Test cases is failed= checkSearchProduct
+2025-10-01 01:18:13 [main] INFO  com.utilities.MyListerner - Test suite execution is completed
+2025-10-01 01:21:54 [main] INFO  com.utilities.MyListerner - test suite execution started
+2025-10-01 01:21:54 [main] INFO  com.utilities.MyListerner - Test cases Execution is started= Check
+2025-10-01 01:21:55 [main] INFO  com.utilities.MyListerner - Test cases is pass= Check
+2025-10-01 01:21:55 [main] INFO  com.utilities.MyListerner - Test cases Execution is started= checkSearchProduct
+2025-10-01 01:21:55 [main] INFO  com.utilities.MyListerner - Test cases is failed= checkSearchProduct
+2025-10-01 01:21:56 [main] INFO  com.utilities.MyListerner - Test suite execution is completed
+2025-10-01 01:26:01 [main] INFO  com.utilities.MyListerner - test suite execution started
+2025-10-01 01:26:05 [main] INFO  com.utilities.MyListerner - Test cases Execution is started= Check
+2025-10-01 01:26:07 [main] INFO  com.utilities.MyListerner - Test cases is pass= Check
+2025-10-01 01:26:15 [main] INFO  com.utilities.MyListerner - Test cases Execution is started= checkSearchProduct
+2025-10-01 01:26:15 [main] INFO  com.utilities.MyListerner - Test cases is failed= checkSearchProduct
+2025-10-01 01:26:21 [main] INFO  com.utilities.MyListerner - Test suite execution is completed
+2025-10-01 01:27:57 [main] INFO  com.utilities.MyListerner - test suite execution started
+2025-10-01 01:28:01 [main] INFO  com.utilities.MyListerner - Test cases Execution is started= Check
+2025-10-01 01:28:03 [main] INFO  com.utilities.MyListerner - Test cases is pass= Check
+2025-10-01 01:28:11 [main] INFO  com.utilities.MyListerner - Test cases Execution is started= checkSearchProduct
+2025-10-01 01:28:13 [main] INFO  com.utilities.MyListerner - Test cases is pass= checkSearchProduct
+2025-10-01 01:28:18 [main] INFO  com.utilities.MyListerner - Test suite execution is completed
+2025-10-01 01:43:59 [main] INFO  com.utilities.MyListerner - test suite execution started
+2025-10-01 01:44:03 [main] INFO  com.utilities.MyListerner - Test cases Execution is started= Check
+2025-10-01 01:44:05 [main] INFO  com.utilities.MyListerner - Test cases is pass= Check
+2025-10-01 01:44:13 [main] INFO  com.utilities.MyListerner - Test cases Execution is started= checkSearchProduct
+2025-10-01 01:44:15 [main] INFO  com.utilities.MyListerner - Test cases is pass= checkSearchProduct
+2025-10-01 01:44:20 [main] INFO  com.utilities.MyListerner - Test suite execution is completed
+2025-10-01 01:44:53 [main] INFO  com.utilities.MyListerner - test suite execution started
+2025-10-01 01:44:57 [main] INFO  com.utilities.MyListerner - Test cases Execution is started= Check
+2025-10-01 01:44:59 [main] INFO  com.utilities.MyListerner - Test cases is pass= Check
+2025-10-01 01:45:07 [main] INFO  com.utilities.MyListerner - Test cases Execution is started= checkSearchProduct
+2025-10-01 01:45:09 [main] INFO  com.utilities.MyListerner - Test cases is failed= checkSearchProduct
+2025-10-01 01:45:14 [main] INFO  com.utilities.MyListerner - Test suite execution is completed
